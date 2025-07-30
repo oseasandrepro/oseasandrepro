@@ -6,14 +6,6 @@
 
 ###
 
-###
-
-<div align="left">
-  <img width="300" height="400" src="the_matrix.gif"  />
-</div>
-
-###
-
 <p align="left">
   I am on my way to becoming an Algorithm Engineer, <br>
   driven by a strong passion for Software Development and Algorithm Design.<br>
