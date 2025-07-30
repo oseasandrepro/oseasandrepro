@@ -1,14 +1,14 @@
 <style>
-td, th {
-   border: none!important;
-}
+   table, th, td {
+      border: none;
+   }
 </style>
 
 <h2 align="left">Hi! my name is Oseas Andre</h2>
 
 ###
 
-| <img width="400" height="500" src="Ezef.gif" /> | <img width="400" height="500" src="Neo_Matrix-gif.gif" /> |
+| <img width="400" height="500" src="Ezef.gif" />|<img width="400" height="500" src="Neo_Matrix-gif.gif" /> |
 
 ###
 
