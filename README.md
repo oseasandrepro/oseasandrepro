@@ -2,11 +2,8 @@
 
 ###
 
-| <img width="400" height="500" src="Ezef.gif" />|<img width="400" height="500" src="Neo_Matrix-gif.gif" /> |
-
 <table border="0">
-  <tr><td>Cell 1</td><td>Cell 2</td></tr>
-  <tr><td>Cell 3</td><td>Cell 4</td></tr>
+  <tr><td><img width="400" height="500" src="Ezef.gif" /></td><td><img width="400" height="500" src="Neo_Matrix-gif.gif" /></td></tr>
 </table>
 
 ###
