@@ -3,7 +3,7 @@
 ###
 
 <table border="0">
-  <tr><td><img width="350px" height="1000px" src="Ezef.gif" /></td><td><img width="350" height="600" src="Neo_Matrix-gif.gif" /></td></tr>
+  <tr><td><img width="350px" height="600px" src="Ezef.gif" /></td><td><img width="350px" height="600px" src="Neo_Matrix-gif.gif" /></td></tr>
 </table>
 
 ###
