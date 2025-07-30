@@ -8,8 +8,12 @@
 
 ###
 
-<p align="left">I am on my way to becoming an Algorithm Engineer,<br>combining fundamental computer science learning with contributions to real-world industrial software development.</p>
-
+<p align="left">
+  I am on my way to becoming an Algorithm Engineer, driven by a strong passion for Software Development and Algorithm Design.<br>
+  With hands-on experience as a Backend Developer, I have been contributing to the development of scalable and efficient APIs using Java and Spring Boot.<br>
+  Combining fundamental computer science learning and pratice with contributions to real-world industrial software development.
+</p>
+  
 ###
 
 <div align="left">
@@ -27,7 +31,7 @@
 ###
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=oseasandrepro&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oseasandrepro&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
