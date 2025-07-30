@@ -2,7 +2,7 @@
 
 ###
 
-| <img width="300" height="400" src="Ezef.gif" /> | <img width="300" height="400" src="Neo_Matrix-gif.gif" /> |
+|<img width="300" height="400" src="Ezef.gif" />|<img width="300" height="400" src="Neo_Matrix-gif.gif" />|
 
 ###
 
