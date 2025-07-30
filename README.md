@@ -33,9 +33,6 @@
 ###
 ###
 
-<div align="left">
-  ![oseasandrepro's Stats](https://github-readme-stats.vercel.app/api?username=oseasandrepro&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-  ![oseasandrepro's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oseasandrepro&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-</div>
+![oseasandrepro's Stats](https://github-readme-stats.vercel.app/api?username=oseasandrepro&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![oseasandrepro's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oseasandrepro&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
-###
