@@ -1,11 +1,10 @@
-<h2 align="left">Hi! my name is Oseas Andre</h2>
-
 ###
 
 <table border="0">
   <tr><td><img width="390px" height="208px" src="Ezef.gif" /></td><td><img width="400px" height="208px" src="Neo_Matrix-gif.gif" /></tr>
 </table>
 
+<h2 align="left">uname -a</h2>
 ###
 
 <p align="left">
