@@ -9,7 +9,7 @@
 ###
 
 <p align="left">
-  I am on my path to become an Algorithm Engineer, <br>
+  I am on my way to become an Algorithm Engineer, <br>
   driven by a strong passion for Software Development and Algorithm Design.<br>
   With hands-on experience as a Backend Developer,<br> 
   I have been contributing to the development of scalable and efficient APIs using Java and Spring Boot.<br>
