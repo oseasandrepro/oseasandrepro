@@ -9,8 +9,8 @@
 ###
 
 <p align="left">
-  I am on my path to become an Algorithm Engineer, driven by a strong passion for Software Development and Algorithm Design.
-  With hands-on experience as a Backend Developer, I have been contributing to the development of scalable and efficient APIs using Java and Spring Boot.
+  I am on my path to become an Algorithm Engineer, driven by a strong passion for Software Development and Algorithm Design.<br>
+  With hands-on experience as a Backend Developer, I have been contributing to the development of scalable and efficient APIs using Java and Spring Boot.<br>
   Mixing study and practice on fundamental computer science topics, with contributions to real-world software development.
 </p>
   
