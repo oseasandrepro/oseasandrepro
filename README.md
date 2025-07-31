@@ -4,9 +4,10 @@
   <tr><td><img width="390px" height="208px" src="Ezef.gif" /></td><td><img width="400px" height="208px" src="Neo_Matrix-gif.gif" /></tr>
 </table>
 
-<h2 align="left">uname -a</h2>
 ###
 
+###
+<h2 align="left"> uname -a </h2>
 <p align="left">
   I am on my way to become an Algorithm Engineer, <br>
   driven by a strong passion for Software Development and Algorithm Design.<br>
