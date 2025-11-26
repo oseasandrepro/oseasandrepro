@@ -15,6 +15,14 @@ I design and implement scalable, efficient APIs in Java with Spring Boot and Qua
 My work combines hands-on engineering with a deliberate study of core computer-science foundations, allowing me to<br> 
 contribute solutions that are both pragmatic in production and grounded in strong algorithmic thinking.
 </p>
+
+```
+- Kowalski, what's our trajectory?
+- 95% certain we're still doomed.
+- And the, uh... other five percent?
+- Adventure and glory like no penguins have ever seen before.
+- I'll take that action.
+```
   
 ###
 
