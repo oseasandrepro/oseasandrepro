@@ -9,9 +9,11 @@
 ###
 <h2 align="left"> uname -a </h2>
 <p align="left">
-  With hands-on experience as a Backend Developer,<br> 
-  I have been contributing to the development of scalable and efficient APIs using Java and Spring Boot/Quarkus.<br>
-  Mixing study and practice on fundamental computer science topics, with contributions to real-world software development.
+  
+**Backend Developer** <br>
+I design and implement scalable, efficient APIs in Java with Spring Boot and Quarkus.<br>
+My work combines hands-on engineering with a deliberate study of core computer-science foundations, allowing me to<br> 
+contribute solutions that are both pragmatic in production and grounded in strong algorithmic thinking.
 </p>
   
 ###
