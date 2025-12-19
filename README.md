@@ -10,10 +10,12 @@
 <h2 align="left"> uname -a </h2>
 <p align="left">
   
-**Backend Developer** <br>
+**Software Engineer** <br>
 I design and implement scalable, efficient APIs in Java with Spring Boot and Quarkus.<br>
-My work combines hands-on engineering with a deliberate study of core computer-science foundations, allowing me to<br> 
-contribute solutions that are both pragmatic in production and grounded in strong algorithmic thinking.
+I enjoy the process of conceiving, designing, and implementing software end-to-end,<br>
+combining hands-on engineering with a deliberate study of core computer-science foundations.<br>
+This allows me to deliver solutions that are pragmatic in production while remaining<br>
+grounded in strong algorithmic thinking.
 </p>
 
 ```
