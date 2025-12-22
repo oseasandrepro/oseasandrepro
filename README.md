@@ -1,10 +1,10 @@
 
 <div style="display: block; padding: 16px;">
   <h1 style="border: none;">Oséas André</h1>
-  <div style="display: flex; height:450px; width:100%; background-color: black; color:white">
-    <div style="display: block; width:70%; margin-right: 8px;">
+  <div style="display: flex; width:100%; background-color: black; color:white">
+    <div style="display: block; width:100%; margin-right: 8px;">
       <p style="font-weight: bold;">
-          Hello, here you gonna find information about my education, work experience and projects.
+          Hello, here you will find information about my education, work experience and projects.
           I am a Software Engineer with 4 years of experience, focused on performance, reliability, and maintainability.
           Winner of the Parallel Programming Marathon, I bring a strong foundation in algorithms, data structures, concurrency,
           and metric-driven optimization. At Globo, I applied these principles to backend APIs supporting the recommendation
@@ -12,16 +12,18 @@
           solution design. In agile environments,I actively contribute to technical and architectural decisions, bringing relevant insights, learning from technical discussions and, delivering consistent solutions. I enjoy the process of conceiving, designing, and implementing software end-to-end, combining hands-on engineering with a deliberate study of core computer-science foundations. This allows me to deliver solutions that are pragmatic in production while remaining grounded in strong algorithmic thinking.
       </p>
     </div>
+    <!-- 
     <div style="width:30%">
       <img style="height:100%; width:100%" src="./images/profile-picture.jpg" />
     </div>
+    -->
   </div>
 </div>
 
-<div style="background-color: ghostwhite; color: black; padding: 16px;">
+<div style="background-color: ghostwhite; color: black; padding: 16px; font-size: 14px">
   <h2 style="border: none;">Experience</h2>
 
-  <div style="display: flex; font-size: 16px">
+  <div style="display: flex;">
     <article style="margin-bottom: 24px; margin-right: 24px; width:50%">
       <header style="display: flex; justify-content: space-between; align-items: baseline;">
         <strong style="margin: 0;">Backend Developer Intern <span style="font-weight: normal;">(Functionally Mid-Level)</span></strong>
@@ -54,7 +56,7 @@
       </p>
     </article>
   </div>
-  <div style="display: flex; font-size: 16px">
+  <div style="display: flex; font-size: 14px">
     <article style="margin-bottom: 24px; margin-right: 24px; width:50%">
       <header style="display: flex; justify-content: space-between; align-items: baseline;">
         <strong style="margin: 0;">Software Development Intern</strong>
@@ -88,7 +90,7 @@
 </div>
 
 
-<div style="background-color: Gainsboro; color: black; padding: 16px;">
+<div style="background-color: Gainsboro; color: black; padding: 16px; font-size: 14px">
   <h2 style="border: none;">Education</h2>
 
   <article style="margin-bottom: 24px;">
@@ -146,7 +148,7 @@
 </div>
 
 
-<div style="background-color: ghostwhite; color: black; padding: 16px;">
+<div style="background-color: ghostwhite; color: black; padding: 16px; font-size: 14px">
   <h2 style="border: none;">Relevant projects</h2>
   <div style="display: flex;">
     <article style="margin-right: 24px; width:50%">
@@ -172,7 +174,7 @@
       </p>
     </article>
   </div>
-  <div style="display: flex;">
+  <div style="display: flex; font-size: 14px">
       <article style="margin-right: 24px; margin-bottom: 24px; width:50%">
         <header style="display: flex; justify-content: space-between; align-items: baseline;">
             <a href="https://github.com/oseasandrepro/Projeto1"> <h3 style="margin: 0;">Editor Gráfico Vetorial</h3> </a>
