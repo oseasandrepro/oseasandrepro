@@ -155,7 +155,7 @@
       <header style="display: flex; justify-content: space-between; align-items: baseline;">
           <a href="https://github.com/oseasandrepro/RPC-LIB"><h3 style="margin: 0;">SRPC</h3></a>
       </header>
-      <img width="100%" height="208px" src="./images/rpc-diagram.png" />
+      <img width="800px" height="208px" src="./images/rpc-diagram.png" />
       <p>
         A lightweight Remote Procedure Call library designed for clean abstraction between
         distributed processes, facilitating rapid prototyping - In this project I demonstrate
@@ -167,7 +167,7 @@
       <header style="display: flex; justify-content: space-between; align-items: baseline;">
           <a href="https://github.com/oseasandrepro/MiniBitTorrent"><h3 style="margin: 0;">MiniBitTorrent</h3></a>
       </header>
-      <img width="100%" height="208px" src="./images/P2P-network.gif" />
+      <img width="800px" height="208px" src="./images/P2P-network.gif" />
       <p>
         A naive implementation of an Peer2Peer BitTorrent, running in local network - Using Java
         You can exchange totally functional, you can exchange files with it in your LAN.
@@ -179,7 +179,7 @@
         <header style="display: flex; justify-content: space-between; align-items: baseline;">
             <a href="https://github.com/oseasandrepro/Projeto1"> <h3 style="margin: 0;">Editor Gráfico Vetorial</h3> </a>
         </header>
-        <img width="100%" height="208px" src="./images/editor-grafico-vetorial.png" />
+        <img width="800px" height="208px" src="./images/editor-grafico-vetorial.png" />
         <p>
           Vector graphics editor, using Java2D. Allows you to create, edit, and manipulate images based 
           on simple geometric shapes. Made in pure Java without any third-party libraries.
@@ -191,7 +191,7 @@
             <h3 style="margin: 0;">Algorithms Design</h3>
             </a>
         </header>
-        <img width="100%" height="208px" src="./images/AlgorithmDesign-picture.jpg" />
+        <img width="800px" height="208px" src="./images/AlgorithmDesign-picture.jpg" />
         <p>
           This repository documents the coursework and exercises developed throughout the “Tópicos de Programação”, with strong emphasis on algorithmic rigor and theoretical foundations. It covers algorithm complexity, finiteness and correctness proofs, recursion and recurrence solving, fundamental data structures, classic search and sorting algorithms, graph theory and graph algorithms. The repository aggregates lecture materials, mathematical proofs, evaluated assessments, practical implementations, and exercises written in C. What stands out in this Repo is a text where I conduct my first regourous finitude and correctness analysis, of Selection-sort and Buble-Sort Algorithms - look at this link: <a href="https://github.com/oseasandrepro/Topicos-De-Programacao-USP/blob/main/02-semana/exercicios/Finitude-Corretude%26Complexidade/Finitude%2C%20Corretude%20%26%20Complexidade%20de%20Algoritmos%20-%20Oseas%20Andre.pdf">
           Finitude, Corretude & Complexidade de Algoritmos - Oseas Andre</a>. And the experiments where I check imppiricaly the runtime complexity, look at this link: <a href="https://github.com/oseasandrepro/Topicos-De-Programacao-USP/blob/main/02-semana/exercicios/Finitude-Corretude%26Complexidade-EP2/finitude-corretude%26complexidade-de-algoritimos_apresetancao.pdf">finitude-corretude&complexidade-de-algoritimos-experimentos</a>. Here I was preparing my self for advanced studies in Computer Science.
