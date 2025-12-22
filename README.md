@@ -1,57 +1,199 @@
-###
 
-<table border="0">
-  <tr><td><img width="390px" height="208px" src="Ezef.gif" /></td><td><img width="400px" height="208px" src="Neo_Matrix-gif.gif" /></tr>
-</table>
-
-###
-
-###
-<h2 align="left"> uname -a </h2>
-<p align="left">
-  
-**Software Engineer** <br>
-I design and implement scalable, efficient APIs in Java with Spring Boot and Quarkus.<br>
-I enjoy the process of conceiving, designing, and implementing software end-to-end,<br>
-combining hands-on engineering with a deliberate study of core computer-science foundations.<br>
-This allows me to deliver solutions that are pragmatic in production while remaining<br>
-grounded in strong algorithmic thinking.
-</p>
-
-```
-- Kowalski, what's our trajectory?
-- 95% certain we're still doomed.
-- And the, uh... other five percent?
-- Adventure and glory like no penguins have ever seen before.
-- I'll take that action.
-```
-  
-###
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo" />
+<div style="display: block; padding: 16px;">
+  <h1 style="border: none;">Oséas André</h1>
+  <div style="display: flex; height:450px; width:100%; background-color: black; color:white">
+    <div style="display: block; width:70%; margin-right: 8px;">
+      <p style="font-weight: bold;">
+          Hello, here you gonna find information about my education, work experience and projects.
+          I am a Software Engineer with 4 years of experience, focused on performance, reliability, and maintainability.
+          Winner of the Parallel Programming Marathon, I bring a strong foundation in algorithms, data structures, concurrency,
+          and metric-driven optimization. At Globo, I applied these principles to backend APIs supporting the recommendation
+          ecosystem. At FUJB, I redesigned a system workflow, removing a third-party dependency and reducing operational costs by R$2,000/month. My background as a teaching assistant and programming instructor reinforces disciplined problem-solving, precise
+          solution design. In agile environments,I actively contribute to technical and architectural decisions, bringing relevant insights, learning from technical discussions and, delivering consistent solutions. I enjoy the process of conceiving, designing, and implementing software end-to-end, combining hands-on engineering with a deliberate study of core computer-science foundations. This allows me to deliver solutions that are pragmatic in production while remaining grounded in strong algorithmic thinking.
+      </p>
+    </div>
+    <div style="width:30%">
+      <img style="height:100%; width:100%" src="./images/profile-picture.jpg" />
+    </div>
+  </div>
 </div>
 
-###
+<div style="background-color: ghostwhite; color: black; padding: 16px;">
+  <h2 style="border: none;">Experience</h2>
 
-###
+  <div style="display: flex; font-size: 16px">
+    <article style="margin-bottom: 24px; margin-right: 24px; width:50%">
+      <header style="display: flex; justify-content: space-between; align-items: baseline;">
+        <strong style="margin: 0;">Backend Developer Intern <span style="font-weight: normal;">(Functionally Mid-Level)</span></strong>
+        <strong>Globo</strong>
+      </header>
+      <hr style="margin-bottom: 5px; margin-top: 5px;">
+      <p>
+        Designed and implemented backend APIs with a focus on performance, reliability, and maintainability.
+        Contributed to architectural decisions, applied algorithmic thinking to production systems, and worked
+        with Java, Spring Boot, and Quarkus in a large-scale recommendation ecosystem, working with Java, Spring Boot,
+        Quarkus, and MongoDB.
+        <strong>Peer Feedback:</strong><br>
+        Recognized by Tech Lead for "impressive evolution" and the ability to "investigate problems with depth and present well-founded answers". Praised by Product Manager for "natural leadership" and "technical autonomy" within two years of team contribution.
+      </p>
+    </article>
+    <article style="margin-bottom: 24px; width:50%">
+      <header style="display: flex; justify-content: space-between; align-items: baseline;">
+        <strong style="margin: 0;">Volunteer Professor</strong>
+        <strong>Rio de Janeiro State University(UERJ)</strong>
+      </header>
+      <hr style="margin-bottom: 5px; margin-top: 5px;">
+      <p>
+        As a Volunteer Professor for the “Programação 0” course at UERJ, I planned, organized, and delivered 
+        classes for freshmen with initial programming difficulties, structuring content in an accessible and 
+        needs-driven manner; I taught and reinforced core concepts of logic and software development—including 
+        algorithms, modularization, control flow, and fundamental problem-solving principles—while providing 
+        individualized support and close monitoring to identify knowledge gaps, deliver targeted explanations, 
+        and strengthen the logical foundation required for progression in programming courses. 
+        Using Python programming language
+      </p>
+    </article>
+  </div>
+  <div style="display: flex; font-size: 16px">
+    <article style="margin-bottom: 24px; margin-right: 24px; width:50%">
+      <header style="display: flex; justify-content: space-between; align-items: baseline;">
+        <strong style="margin: 0;">Software Development Intern</strong>
+        <strong>FUJB</strong>
+      </header>
+      <hr style="margin-bottom: 5px; margin-top: 5px;">
+      <p>
+        At Fundação Universitária José Bonifácio(FUJB), I worked as a Full-Stack Software Development Intern, 
+        designing and delivering end-to-end software modules—from requirements and architecture to implementation and testing—using C#, 
+        HTML, and CSS; I systematically refactored legacy components with an architecture-first approach 
+        to improve long-term maintainability, designed and implemented the “Portal de Comprovante de Rendimento (Informe de Rendimento)” system, and architected and deployed an internal replacement for a third-party solution, 
+        eliminating an external dependency and achieving a recurring cost reduction of approximately R$2,000 per month.
+        working with: C#, ASP.NET, and SQL.
+      </p>
+    </article>
+    <article style="margin-bottom: 24px; width:50%">
+      <header style="display: flex; justify-content: space-between; align-items: baseline;">
+        <strong style="margin: 0;">Teaching assistant</strong>
+        <strong>Rio de Janeiro State University(UERJ)</strong>
+      </header>
+      <hr style="margin-bottom: 5px; margin-top: 5px;">
+      <p>
+        I provided hands-on technical guidance through code reviews and structured feedback, 
+        explained fundamental programming concepts using live examples, and strengthened my
+        ability to analyze, evaluate, and debug solution approaches, consistently reinforcing good 
+        coding practices, algorithmic reasoning, pattern recognition, and critical problem-solving.
+        Using C programming language.
+      </p>
+    </article>
+  </div>
+</div>
 
-![oseasandrepro's Stats](https://github-readme-stats.vercel.app/api?username=oseasandrepro&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![oseasandrepro's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oseasandrepro&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
-###
+<div style="background-color: Gainsboro; color: black; padding: 16px;">
+  <h2 style="border: none;">Education</h2>
+
+  <article style="margin-bottom: 24px;">
+    <header style="display: flex; justify-content: space-between; align-items: baseline;">
+      <h3 style="margin: 0;">Bachelor of Science in Computer Science</h3>
+      <strong><h3>Rio de Janeiro State University (UERJ) </h3></strong>
+    </header>
+    <hr style="margin-bottom: 5px; margin-top: 5px;">
+    <p>
+      During my graduation, I deliberately focused on mastering algorithms and the core disciplines 
+      that support the design, implementation, and long-term maintenance of high-quality software projects. 
+      I prioritized subjects that strengthened my algorithmic thinking, system decomposition, and analytical 
+      rigor, using them as a foundation to build software that is not only functional, but scalable, 
+      maintainable, and resilient to change. Disciplines that stand out:<br>
+      Algorithms and Data Structures I and II;<br>
+      Programming Languages ​​I and II;<br>
+      Graph Algorithms;<br>
+      Linear Algebra;<br>
+      Software Engineering;<br>
+      Algorithm Development and Implementation (elective);<br>
+      Language Structures (introduction to language design);<br>
+      Special Topics in Applied Mathematics I (numerical methods);<br>
+      Advanced Topics in Programming Languages ​​(elective).
+    </p>
+  </article>
+
+  <article style="margin-bottom: 24px;">
+    <header style="display: flex; justify-content: space-between; align-items: baseline;">
+      <h3 style="margin: 0;">Algorithms: Theory, Analysis, and Implementation</h3>
+      <strong><h3>University of São Paulo(USP)</h3></strong>
+    </header>
+    <hr style="margin-bottom: 5px; margin-top: 5px;">
+    <p>
+      The discipline covered systematic program development techniques, algorithm efficiency analysis, 
+      recursive algorithms, and core data structure fundamentals, with practical applications in search (linear and binary) 
+      and sorting algorithms, targeting students seeking a deeper theoretical and practical foundation in algorithms and 
+      advanced programming techniques.
+    </p>
+  </article>
+
+  <article style="margin-bottom: 24px;">
+    <header style="display: flex; justify-content: space-between; align-items: baseline;">
+      <h3 style="margin: 0;">Java Programming Fundamentals</h3>
+      <strong><h3>Edx</h3></strong>
+    </header>
+    <hr style="margin-bottom: 5px; margin-top: 5px;">
+    <p>
+      This self-paced course provided a structured progression through core Java programming concepts across five lessons, 
+      covering object-oriented programming fundamentals, control flow, recursion, and the design, compilation, and 
+      execution of Java applications, with an introduction to Android development; learning was reinforced through 
+      questionnaires, practical exercises, and a comprehensive final exam, allowing flexible pacing while ensuring 
+      mastery of both theoretical foundations and applied programming skills.
+    </p>
+  </article>
+</div>
+
+
+<div style="background-color: ghostwhite; color: black; padding: 16px;">
+  <h2 style="border: none;">Relevant projects</h2>
+  <div style="display: flex;">
+    <article style="margin-right: 24px; width:50%">
+      <header style="display: flex; justify-content: space-between; align-items: baseline;">
+          <a href="https://github.com/oseasandrepro/RPC-LIB"><h3 style="margin: 0;">SRPC</h3></a>
+      </header>
+      <img width="100%" height="208px" src="./images/rpc-diagram.png" />
+      <p>
+        A lightweight Remote Procedure Call library designed for clean abstraction between
+        distributed processes, facilitating rapid prototyping - In this project I demonstrate
+        technical depth, release discipline, and systems-level thinking necessary to carry
+        out Software Engineer projects, totaly functional - using Python.
+      </p>
+    </article>
+    <article style="margin-bottom: 24px; width:50%">
+      <header style="display: flex; justify-content: space-between; align-items: baseline;">
+          <a href="https://github.com/oseasandrepro/MiniBitTorrent"><h3 style="margin: 0;">MiniBitTorrent</h3></a>
+      </header>
+      <img width="100%" height="208px" src="./images/P2P-network.gif" />
+      <p>
+        A naive implementation of an Peer2Peer BitTorrent, running in local network - Using Java
+        You can exchange totally functional, you can exchange files with it in your LAN.
+      </p>
+    </article>
+  </div>
+  <div style="display: flex;">
+      <article style="margin-right: 24px; margin-bottom: 24px; width:50%">
+        <header style="display: flex; justify-content: space-between; align-items: baseline;">
+            <a href="https://github.com/oseasandrepro/Projeto1"> <h3 style="margin: 0;">Editor Gráfico Vetorial</h3> </a>
+        </header>
+        <img width="100%" height="208px" src="./images/editor-grafico-vetorial.png" />
+        <p>
+          Vector graphics editor, using Java2D. Allows you to create, edit, and manipulate images based 
+          on simple geometric shapes. Made in pure Java without any third-party libraries.
+        </p>
+    </article>
+      <article style="margin-bottom: 24px; width:50%">
+        <header style="display: flex; justify-content: space-between; align-items: baseline;">
+            <a href="https://github.com/oseasandrepro/Topicos-De-Programacao-USP">
+            <h3 style="margin: 0;">Algorithms Design</h3>
+            </a>
+        </header>
+        <img width="100%" height="208px" src="./images/AlgorithmDesign-picture.jpg" />
+        <p>
+          This repository documents the coursework and exercises developed throughout the “Tópicos de Programação”, with strong emphasis on algorithmic rigor and theoretical foundations. It covers algorithm complexity, finiteness and correctness proofs, recursion and recurrence solving, fundamental data structures, classic search and sorting algorithms, graph theory and graph algorithms. The repository aggregates lecture materials, mathematical proofs, evaluated assessments, practical implementations, and exercises written in C. What stands out in this Repo is a text where I conduct my first regourous finitude and correctness analysis, of Selection-sort and Buble-Sort Algorithms - look at this link: <a href="https://github.com/oseasandrepro/Topicos-De-Programacao-USP/blob/main/02-semana/exercicios/Finitude-Corretude%26Complexidade/Finitude%2C%20Corretude%20%26%20Complexidade%20de%20Algoritmos%20-%20Oseas%20Andre.pdf">
+          Finitude, Corretude & Complexidade de Algoritmos - Oseas Andre</a>. And the experiments where I check imppiricaly the runtime complexity, look at this link: <a href="https://github.com/oseasandrepro/Topicos-De-Programacao-USP/blob/main/02-semana/exercicios/Finitude-Corretude%26Complexidade-EP2/finitude-corretude%26complexidade-de-algoritimos_apresetancao.pdf">finitude-corretude&complexidade-de-algoritimos-experimentos</a>. Here I was preparing my self for advanced studies in Computer Science.
+        </p>
+    </article>
+  </div>
+</div>
